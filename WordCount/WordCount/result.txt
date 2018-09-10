@@ -1,0 +1,13 @@
+characters:3904519
+words:364053
+lines:31379
+<will>: 10080
+<lord>: 7352
+<your>: 6395
+<with>: 5759
+<they>: 5578
+<that>: 5457
+<from>: 4733
+<have>: 4192
+<their>: 3600
+<them>: 3028
